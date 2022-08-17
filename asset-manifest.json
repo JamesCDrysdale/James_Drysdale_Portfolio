@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/james_drysdale_portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/james_drysdale_portfolio/static/js/main.cbf6bd5e.js",
+    "main.js": "/james_drysdale_portfolio/static/js/main.d00291af.js",
     "static/js/787.59e87ae3.chunk.js": "/james_drysdale_portfolio/static/js/787.59e87ae3.chunk.js",
-    "static/media/logo.svg": "/james_drysdale_portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/james_drysdale_portfolio/index.html",
     "main.073c9b0a.css.map": "/james_drysdale_portfolio/static/css/main.073c9b0a.css.map",
-    "main.cbf6bd5e.js.map": "/james_drysdale_portfolio/static/js/main.cbf6bd5e.js.map",
+    "main.d00291af.js.map": "/james_drysdale_portfolio/static/js/main.d00291af.js.map",
     "787.59e87ae3.chunk.js.map": "/james_drysdale_portfolio/static/js/787.59e87ae3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.cbf6bd5e.js"
+    "static/js/main.d00291af.js"
   ]
 }
