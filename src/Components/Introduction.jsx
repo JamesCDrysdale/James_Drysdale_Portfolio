@@ -18,13 +18,26 @@ function Introduction() {
                     In my free time I mentor career-changers and people at various stages in their career.
                 </p>
             </section>
+
+             <section>
+                <p className="title">
+                    About Me
+                </p>
+                <p>A brief list of some of the technologies I have been using:</p>
+                <ul>
+                    <li>HTML, CSS, JS</li>
+                    <li>React, Next.js, Vue.js</li>
+                    <li>Java</li>
+                    <li>Python</li>
+                </ul>
+            </section>
         </Container>
     );
 }
 
 const Container = styled.section`
     text-align: left;
-    margin: 40px;
+    margin: 60px 40px;
 `
 
 const thisYear = new Date().getFullYear();
