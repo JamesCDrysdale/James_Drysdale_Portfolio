@@ -2,14 +2,14 @@ import './App.css';
 
 // Import Components
 import Header from './Components/Header';
+import Introduction from './Components/Introduction';
 
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <h2>Under Construction</h2>
-      <p>Please come back later</p>
+      <Introduction />
     </div>
   );
 }
